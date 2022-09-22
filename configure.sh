@@ -15,4 +15,4 @@ sudo scons install
 LD_LIBRARY_PATH=/usr/local/lib/
 export LD_LIBRARY_PATH
 
-cd ../pacman
+cd ../PACMAN
